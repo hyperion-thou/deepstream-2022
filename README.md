@@ -38,7 +38,7 @@ Demos source, resources and presentation.
 
 ### Learning material
 
-- [my-summary](https://www.yuque.com/docs/share/2473887f-1013-4857-ae54-8ec6a5e9e8ef?# 《DeepStream》)
+- [my-summary](https://www.yuque.com/docs/share/2473887f-1013-4857-ae54-8ec6a5e9e8ef)
 - [How To Develop and Optimize Edge AI apps with NVIDIA DeepStream](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41777/)
 - [A bit old quickstart on DS 5.0 but still useful](https://blog.ml6.eu/nvidia-deepstream-quickstart-9147dd49a15d)
 - [NVIDIA DeepStream development with Microsoft Azure](https://docs.microsoft.com/en-au/learn/paths/nvidia-deepstream-development-with-microsoft-azure/)
